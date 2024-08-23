@@ -1,4 +1,3 @@
-
 #pragma once
 
 #include "breach_detection.h"
